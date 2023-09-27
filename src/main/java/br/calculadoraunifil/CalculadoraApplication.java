@@ -7,7 +7,13 @@ public class CalculadoraApplication {
 
     public static void main(String[] args) {
         int option;
+        do {
+            switch (option) {
 
+            }
+
+
+        }
 
     }
 }
